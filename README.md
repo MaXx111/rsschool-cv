@@ -1,1 +1,1 @@
-https://MaXx111.github.io/rsschool-cv/cv
+https://MaXx111.github.io/rsschool-cv/
