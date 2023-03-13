@@ -1,0 +1,160 @@
+* {
+    margin: 0;
+}
+
+@font-face {
+    font-family: "PoppinsBold";  
+    src: url("./fonts/Poppins-Bold.ttf") format("truetype"); 
+    font-style: bold; 
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "PoppinsLight";  
+    src: url("./fonts/Poppins-Light.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: 300;
+}
+
+.poppinsBold {
+    font-family: "PoppinsBold";
+    font-weight: 700;
+}
+
+.poppinsLight {
+    font-family: "PoppinsLight";
+    font-weight: 300;
+}
+
+.conteiner {
+    display: flex;
+    background-color: #fff8e7;
+}
+
+.side-bar{
+    max-width: 310px;
+    background-color: #2d2f31;
+}
+
+.side-bar-img {
+    width: 310px;
+}
+
+.side-bar-contacts {
+    padding: 15px;
+}
+
+.side-bar-contacts-title {
+    font-size: 18px;
+    line-height: 26p
+}
+
+.white {
+    color: #fff8e7;
+}
+
+.list {
+    padding-bottom: 10px;
+}
+
+.list-item {
+    padding: 5px;
+    font-size: 15px;
+    line-height: 26px;
+}
+
+.font-weight {
+    font-weight: 700;
+}
+
+.link {
+    color: #ffca64;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: #dc9203;
+}
+
+.link:active {
+    color: #ffca64;
+}
+
+.side-bar-education {
+    padding: 0 15px 15px 15px;
+}
+
+.side-bar-education-title {
+    font-size: 18px;
+    line-height: 26p
+}
+
+.main-info {
+    padding: 50px 50px 25px 75px;
+    max-width: 760px;
+    margin: auto;
+}
+
+.main-info-title {
+    padding: 0 0 10px 0;
+    font-size: 42px;
+    line-height: 64px;
+}
+
+.breakLine {
+    border: 1px solid #cabd99;
+}
+
+.main-info-aboutMe {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-info-aboutMe-title {
+    padding: 10px 0 10px 0
+}
+
+.main-info-aboutMe-txt {
+    padding: 0 0 10px 0;
+}
+
+.main-info-skills {
+
+}
+
+.main-info-skills-title {
+    padding: 10px 0 10px 0
+}
+
+.main-info-codeExample {
+
+}
+
+.main-info-codeExample-title {
+    padding: 10px 0 0 0
+}
+
+.code {
+    margin: 10px 10px 15px 15px;
+    background-color: #f0dec2;
+}
+
+.main-info-experience {
+
+}
+
+.main-info-experience-title {
+    padding: 10px 0 10px 0
+}
+
+.main-info-experience-txt {
+    padding: 0 0 10px 0;
+}
+
+.main-info-english {
+
+}
+
+.main-info-english-title {
+    padding: 10px 0 10px 0
+}
