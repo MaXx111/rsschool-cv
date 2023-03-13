@@ -1,0 +1,115 @@
+body {
+    margin: 0;
+}
+
+.conteiner {
+    display: flex;
+    justify-content: space-between
+}
+
+.side-bar{
+    background-color: #2d2f31;
+}
+
+.side-bar-img {
+    width: 310px;
+}
+
+.side-bar-contacts {
+
+}
+
+.side-bar-contacts-title {
+
+}
+.white {
+    color: #FFFFFF;
+}
+
+.list {
+
+}
+
+.list-item {
+
+}
+
+.font-weight {
+
+}
+
+.link {
+
+}
+
+.side-bar-education {
+
+}
+
+.side-bar-education-title {
+
+}
+
+.main-info {
+    padding: 25px 50px 25px 75px;
+}
+
+.main-info-title {
+
+}
+
+.breakLine {
+    border: 1px solid #2d2f31;
+}
+
+.main-info-aboutMe {
+
+}
+
+.main-info-aboutMe-title {
+
+}
+
+.main-info-aboutMe-txt {
+
+}
+
+.main-info-skills {
+
+}
+
+.main-info-skills-title {
+
+}
+
+.main-info-codeExample {
+
+}
+
+.main-info-codeExample-title {
+
+}
+
+.main-info-codeExample-txt {
+
+}
+
+.main-info-experience {
+
+}
+
+.main-info-experience-title {
+
+}
+
+.main-info-experience-txt {
+
+}
+
+.main-info-english {
+
+}
+
+.main-info-english-title {
+
+}
